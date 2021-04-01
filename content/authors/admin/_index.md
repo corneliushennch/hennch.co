@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cornelius Hennch
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,12 +14,13 @@ organizations:
   url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cancer genetics, statistical computing and road cycling.
 
 # Interests to show in About widget
 interests:
 - Functional genetics of lymphoma entities
 - R statistical computing
+- Planetary health
 - Epidemiology
 - Road cycling
 
@@ -57,4 +58,4 @@ highlight_name: false
 
 Hello there! This site is still under construction!
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

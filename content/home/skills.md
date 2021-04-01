@@ -1,3 +1,6 @@
++++
+active = false  # Activate this widget? true/false
++++
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/

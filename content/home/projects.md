@@ -1,3 +1,6 @@
++++
+active = false  # Activate this widget? true/false
++++
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -10,7 +13,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'What I am working on right now.'
 
 content:
   # Page type to display. E.g. project.
