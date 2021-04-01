@@ -18,6 +18,7 @@ bio: My research interests include cancer genetics, statistical computing and ro
 
 # Interests to show in About widget
 interests:
+- Sophia knutschen
 - Functional genetics of lymphoma entities
 - R statistical computing
 - Planetary health
