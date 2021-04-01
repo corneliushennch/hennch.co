@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Cornelius Hennch # Website name
 baseurl: 'https://hennch.netlify.app' # Website URL
-copyright: '© Cornelius Hennch 2021' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Cornelius Hennch' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
