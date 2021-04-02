@@ -1,68 +1,38 @@
 ---
-# Display name
 title: Cornelius Hennch
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: MD thesis student
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Charité Universitätsmedizin - Berlin
-  url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include cancer genetics, statistical computing and road cycling.
-
-# Interests to show in About widget
+bio: My research interests include cancer genetics, statistical computing and
+  road cycling.
 interests:
-- Functional genomics of lymphoma entities
-- statistical computing with R
-- Planetary health
-- Epidemiology
-- Psychiatry and psychotherapy
-- Road cycling
-
-# Education to show in About widget
+  - Functional genomics of lymphoma entities
+  - statistical computing with R
+  - Planetary health
+  - Epidemiology
+  - Psychiatry and psychotherapy
+  - Road cycling
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/c_hennch
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/corneliushennch
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-4104-5531
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Cornelius-Hennch
+organizations:
+  - name: Charité Universitätsmedizin - Berlin
+    url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
 education:
   courses:
-  - course: Medical school state exam in November 2020
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/c_hennch
-- icon: github
-  icon_pack: fab
-  link: https://github.com/corneliushennch
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0003-4104-5531
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Cornelius-Hennch
-  
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Medical school
+      institution: Charité – Universitätsmedizin Berlin
+      year: ""
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Hello there! This site is still under construction!
-
-
+I am currently working on my MD thesis project in the lab of Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charite – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in primary mediastinal B-cell lymphoma (PMBCL).
