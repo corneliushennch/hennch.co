@@ -10,7 +10,6 @@ interests:
   - Planetary health
   - Epidemiology
   - Psychiatry and psychotherapy
-  - Road cycling
   
 social:
   - icon: twitter
@@ -32,9 +31,20 @@ organizations:
     
 education:
   courses:
+    - course: Graduate program in cancer research (ongoing)
+      institution: Berlin school of integrative oncology (BSIO)
+      year: ""
     - course: Medical school (state exam)
       institution: Charité – Universitätsmedizin Berlin
       year: "2013 - 2020"
+    - course: Full study scholarship
+      institution: German National Academic Foundation
+      year: "2014 - 2020"
+    - course: Erasmus exchange study
+      institution: Université Paris Descartes, Paris, France
+      year: "2016 - 2017"
+    
+    
 email: ""
 superuser: true
 highlight_name: false
