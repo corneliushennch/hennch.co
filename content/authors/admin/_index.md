@@ -37,10 +37,7 @@ education:
     - course: Medical school (state exam)
       institution: Charité – Universitätsmedizin Berlin
       year: "2013 - 2020"
-    - course: Full study scholarship
-      institution: German National Academic Foundation
-      year: "2014 - 2020"
-    - course: Erasmus exchange study
+    - course: Erasmus exchange year
       institution: Université Paris Descartes, Paris, France
       year: "2016 - 2017"
     
