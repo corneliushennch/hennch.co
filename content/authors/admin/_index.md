@@ -1,8 +1,7 @@
 ---
 title: Cornelius Hennch
 role: MD thesis student
-bio: My research interests include cancer genetics, statistical computing and
-  road cycling.
+bio: My research interests include cancer genetics, statistical computing and road cycling.
   
 interests:
   - Functional genomics of lymphoma entities
@@ -46,4 +45,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charite – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in primary mediastinal B-cell lymphoma (PMBCL).
+I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charite – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in primary mediastinal B-cell lymphoma (PMBCL) which is a rare lymphoma entity. 

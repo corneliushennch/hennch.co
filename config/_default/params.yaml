@@ -81,8 +81,8 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: 'https://github.com/corneliushennch/hennch.co'
+  content_dir: 'https://github.com/corneliushennch/hennch.co/content'
   repo_branch: main
   editable:
     page: false
