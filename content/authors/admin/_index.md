@@ -23,7 +23,10 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Cornelius-Hennch
-    
+  - icon: strava
+    icon_pack: fab
+    link: https://www.strava.com/athletes/2593223
+ 
 organizations:
   - name: Charité Universitätsmedizin - Berlin
     url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
@@ -45,4 +48,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charite – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in primary mediastinal B-cell lymphoma (PMBCL) which is a rare lymphoma entity. 
+I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. In the first part of my project I created single-cell derived knocked out models that we subsequently analyzed with a variety of methods. I am currently working on the comprehensive analysis of the clinical as well as molecular data of our patient cohort.
