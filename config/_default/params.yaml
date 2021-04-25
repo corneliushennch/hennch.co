@@ -17,7 +17,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'c_hennch'
 
 # Contact (edit or remove options as required)
 
@@ -62,6 +62,7 @@ main_menu:
   enable: true
   align: r
   show_logo: false
+# logo:  "assets/media/logo.svg"
   show_language: false
   show_day_night: true
   show_search: true

@@ -5,11 +5,12 @@ bio: My research interests include cancer genetics, statistical computing and ro
   
 interests:
   - Functional genomics of lymphoma entities
-  - statistical computing with R
-  - Planetary health
-  - Epidemiology
+  - Statistical programming with R
+  - Reproducible data analysis
+  - Epidemiology and clinical research
   - Psychiatry and psychotherapy
-  
+  - Planetary health
+
 social:
   - icon: twitter
     icon_pack: fab
@@ -33,9 +34,9 @@ organizations:
     
 education:
   courses:
-    - course: Graduate program in cancer research (ongoing)
+    - course: Graduate program in cancer research
       institution: Berlin school of integrative oncology (BSIO)
-      year: ""
+      year: "since 2017 (ongoing)"
     - course: Medical school (state exam)
       institution: Charité – Universitätsmedizin Berlin
       year: "2013 - 2020"
@@ -48,4 +49,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. In the first part of my project I created single-cell derived knocked out models that we subsequently analyzed with a variety of methods. I am currently working on the comprehensive analysis of the clinical as well as molecular data of our patient cohort.
+I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. In the first part of my project I created single-cell derived knock-out models that we subsequently analyzed with a variety of functional assays as well as omics methods. I am currently working on the comprehensive analysis of the clinical as well as molecular data of our patient cohort. As I want to analyse the data in the most reproducible way, I am pushing myself to learn and apply a variety of tools for reproducible data analysis.
