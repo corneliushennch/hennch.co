@@ -19,12 +19,14 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
+  - name: CV
+    url: uploads/cv_de_online.pdf
+#    url: https://github.com/corneliushennch/moderncv_latex/raw/master/cv_de_online.pdf
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+
