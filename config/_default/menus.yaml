@@ -19,7 +19,7 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
-  - name: CV
+  - name: CV (German)
     url: uploads/cv_de_online.pdf
 #    url: https://github.com/corneliushennch/moderncv_latex/raw/master/cv_de_online.pdf
     weight: 50
