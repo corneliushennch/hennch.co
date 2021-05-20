@@ -7,7 +7,7 @@ categories: []
 tags: 
 - R
 - Visualisation
-subtitle: 'Hot to visualise a set of genes accross the whole genome with `karyoploteR`'
+subtitle: 'How to visualise a set of genes accross the whole genome with `karyoploteR`'
 summary: ''
 authors: 
 - admin
