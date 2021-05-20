@@ -18,8 +18,9 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output:
+  md_document
 ---
-
 
 
 
@@ -37,7 +38,6 @@ library(karyoploteR)
 # genes you want to visualize
 genes <- c('CD79A', 'CIITA', 'CSF2RB', 'DUSP2', 'HIST1H1E', 'IRF8', 'KLHL6', 'NFKB2', 'NFKBIE', 'NFKBIZ', 'PIM1', 'SOCS1', 'TNFAIP3', 'XBP1', 'IGLL5', 'NFATC2')
 ```
-
 
 ### 2. Get gene coordinates from Biomart
 
@@ -87,7 +87,7 @@ genes_coord <- genes_coord[-2]
 ```
 
 ### 3. Plot with plotKaryotype + kpPlotMarkers
-
+\
 
 
 ```r
@@ -117,10 +117,8 @@ kpPlotMarkers(kp, data = genes_coord,
 dev.off()
 ```
 
-
 Voilà!
 
-Rmarkdown file with the whole source code can be found here:
+The whole documentation of the `karyoploteR` package can be found [here](https://bernatgel.github.io/karyoploter_tutorial//Examples/PlotGenes/PlotGenes.html "karyoploteR package documenation").
 
-
-
+Rmarkdown file with the whole source code can be found on [Github](https://github.com/corneliushennch/hennch.co/blob/b5924773670310c1fdbacd8c2a7357a32c686c14/content/post/2021-05-20-genes-karyploteR/index.Rmarkdown "Source Rmarkdown").

@@ -18,6 +18,8 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output:
+  md_document
 ---
 
 ```{r setup, include = FALSE}
