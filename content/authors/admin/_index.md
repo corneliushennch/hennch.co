@@ -1,7 +1,7 @@
 ---
 title: Cornelius Hennch
 role: MD thesis student
-bio: My research interests include cancer genetics, statistical computing and road cycling.
+bio: My research interests include cancer genetics and statistical programming with R.
   
 interests:
   - Functional genomics of lymphoma entities
