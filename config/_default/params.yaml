@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Classic'
 font_size: M
 i_am_a_sponsor: true
 
@@ -77,7 +77,7 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_style: monkailight
+# highlight_style: monkailight
 highlight_languages:
   - r
 math: false

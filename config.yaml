@@ -52,7 +52,7 @@ markup:
       unsafe: true
   highlight:
     codeFences: true
-    style: monokailight
+   # style: monokailight
   tableOfContents:
     startLevel: 2
     endLevel: 3
