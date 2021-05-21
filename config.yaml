@@ -51,7 +51,8 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    codeFences: false
+    codeFences: true
+    style: monokailight
   tableOfContents:
     startLevel: 2
     endLevel: 3
