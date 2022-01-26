@@ -1,15 +1,15 @@
 ---
-title: Free R Learning ressources
+title: Free R Learning resources
 author: Cornelius Hennch
 date: '2022-01-26'
-slug: free-r-learning-ressources
+slug: free-r-learning-resources
 categories: []
 tags:
   - R
   - data science
   - learning
 subtitle: 'Free online books to learn R for reproducible data analysis.'
-summary: 'A short overview of my favourite ressources to learn the R programming language for reproducible and tidy research data analysis.'
+summary: 'A short overview of my favourite resources to learn the R programming language for reproducible and tidy research data analysis.'
 authors: 
   - admin
 lastmod: '2022-01-26T10:18:03+01:00'
