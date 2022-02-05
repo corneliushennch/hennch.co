@@ -149,7 +149,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-DT52RVD1ST'
   google_tag_manager: ''
   google_site_verification: 'google-site-verification=LHbxzWcYoKXoyT_GQyU9TqoImiciqRAjROl4QQqZjk0'
   baidu_site_verification: ''
