@@ -1,15 +1,16 @@
 ---
 title: Cornelius Hennch
-role: MD thesis student
-bio: My research interests include cancer genetics and statistical programming with R.
+role: Psychiatry resident
+bio: I'm highly interested in the effect of climate change on mental health and reproducible data analysis.
   
 interests:
-  - Functional genomics of lymphoma entities
+  - Psychiatry and psychotherapy
+  - Planetary health
   - Statistical programming with R
   - Reproducible data analysis
   - Epidemiology and clinical research
-  - Psychiatry and psychotherapy
-  - Planetary health
+  - Functional genomics of lymphoma entities
+
 
 social:
   - icon: twitter
@@ -29,11 +30,17 @@ social:
     link: https://www.strava.com/athletes/2593223
  
 organizations:
-  - name: Charité Universitätsmedizin - Berlin
+  - name: Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus
+    url: https://psychiatrie-psychotherapie.charite.de/fuer_patienten/charite_im_shk/
+  - name: Research group of Frederik Damm
     url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
+
     
 education:
   courses:
+    - course: Psychiatry Residency
+      institution: Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus
+      year: "since 2021"
     - course: Graduate program in cancer research
       institution: Berlin school of integrative oncology (BSIO)
       year: "since 2017 (ongoing)"
@@ -49,4 +56,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. In the first part of my project I created single-cell derived knock-out models that we subsequently analyzed with a variety of functional assays as well as omics methods. I am currently working on the comprehensive analysis of the clinical as well as molecular data of our patient cohort. As I want to analyse the data in the most reproducible way, I am pushing myself to learn and apply a variety of tools for reproducible data analysis.
+In fall 2021 I started my residency training in psychiatry at the department of psychiatry of the Charité at the St. Hedwig hospital in Berlin. I am still working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. As I want to analyse the data in the most reproducible way, I am pushing myself to learn and apply a variety of tools for reproducible data analysis.
