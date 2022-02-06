@@ -1,7 +1,7 @@
 ---
-title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+title: Impressum/Imprint
+date: "2022-02-06"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,11 @@ header:
   image: ""
 ---
 
-...
+## Angaben gemäß § 5 TMG
+Cornelius Hennch
+Große Hamburger Straße 5-11
+10115 Berlin
+
+
+## Kontakt
+**E-Mail:** cornelius.hennch[at]gmail.com
