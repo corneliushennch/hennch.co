@@ -13,9 +13,9 @@ interests:
 
 
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/c_hennch
+  # - icon: mastodon
+  #   icon_pack: fab
+  #   link: https://twitter.com/c_hennch
   - icon: github
     icon_pack: fab
     link: https://github.com/corneliushennch
