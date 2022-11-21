@@ -1,0 +1,40 @@
+---
+title: Plot genes with karyoploteR
+author: Cornelius Hennch
+date: '2021-05-20'
+slug: genes-karyploteR
+categories: []
+tags: 
+- R
+- Visualisation
+subtitle: 'How to visualise a set of genes accross the whole genome with `karyoploteR`'
+summary: ''
+authors: 
+- admin
+lastmod: '2021-05-20T17:48:35+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+output:
+  md_document
+---
+
+
+
+## How to visualize a set of genes across the genome
+
+When analysing sequencing data, you might come across the situation in which you want to know the location of a set of genes across the whole genome. In this case, the `karyoploteR` package comes in handy. Here are three simple steps with which you can visualize a set of genes stored in a character vector.
+
+### 1. Define the character vector with the genes of interest
+
+
+
+
+
+
+
+
+
