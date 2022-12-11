@@ -1,7 +1,7 @@
 ---
 title: Cornelius Hennch
 role: Psychiatry resident
-bio: I'm highly interested in the effect of climate change on mental health and reproducible data analysis.
+bio: I'm interested in the effect of climate change on mental health and reproducible data analysis.
   
 interests:
   - Psychiatry and psychotherapy
@@ -9,7 +9,6 @@ interests:
   - Statistical programming with R
   - Reproducible data analysis
   - Epidemiology and clinical research
-  - Functional genomics of lymphoma entities
 
 
 social:
@@ -56,4 +55,5 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-In fall 2021 I started my residency training in psychiatry at the department of psychiatry of the Charité at the St. Hedwig hospital in Berlin. I am still working on my MD thesis project in the lab of Prof. Dr. Frederik Damm in the Department of Hematology/Oncology at the Virchow Campus of the Charité – Universitätsmedizin Berlin. My project aims to elucidate novel genetic lesions in a rare lymphoma entity. As I want to analyse the data in the most reproducible way, I am pushing myself to learn and apply a variety of tools for reproducible data analysis.
+
+I am psychiatry resident in the department of psychiatry of the Charité at the St. Hedwig hospital in Berlin. I am currently completing my MD thesis project in the lab of Prof. Dr. Frederik Damm at the Department of Hematology/Oncology at the Virchow Campus of the Charité. During my thesis project, I discovered my interest and passion for reproducible data analysis and visualization with R. 
