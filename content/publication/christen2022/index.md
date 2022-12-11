@@ -1,20 +1,25 @@
 ---
-title: "Mental health and climate: risks and adaptation strategies. (Psyche und Klima: Risiken und Anpassungsstrategien)"
+title: "Modeling clonal hematopoiesis in umbilical cord blood cells by CRISPR/Cas9"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Friederike Christen
+- Raphael Hablesreiter
+- Kaja Hoyer
 - admin
-- Sylvia Hartmann
+- Franziska Briest
+- Frederik Damm
+- Et Al
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2022-10-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41375-021-01469-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-01T00:00:00Z"
@@ -26,15 +31,14 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ZNS Kompendium 2022*
+publication: In *Leukemia*
 
-abstract: The climate crisis is probably the greatest threat to global health in the 21st century. Especially mental health is strongly affected by direct and indirect effects of the climate crisis. This article shows the most important connections and presents possible protective measures and adaptation strategies of the climate crisis with regard to mental health. 
+abstract: To investigate clonal hematopoiesis associated gene mutations in vitro and to unravel the direct impact on the human stem and progenitor cell (HSPC) compartment, we targeted healthy, young hematopoietic progenitor cells, derived from umbilical cord blood samples, with CRISPR/Cas9 technology. Site-specific mutations were introduced in defined regions of DNMT3A, TET2, and ASXL1 in CD34+ progenitor cells that were subsequently analyzed in short-term as well as long-term in vitro culture assays to assess self-renewal and differentiation capacities. Colony-forming unit (CFU) assays revealed enhanced self-renewal of TET2 mutated (TET2mut) cells, whereas ASXL1mut as well as DNMT3Amut cells did not reveal significant changes in short-term culture. Strikingly, enhanced colony formation could be detected in long-term culture experiments in all mutants, indicating increased self-renewal capacities. While we could also demonstrate preferential clonal expansion of distinct cell clones for all mutants, the clonal composition after long-term culture revealed a mutation-specific impact on HSPCs. Thus, by using primary umbilical cord blood cells, we were able to investigate epigenetic driver mutations without confounding factors like age or a complex mutational landscape, and our findings provide evidence for a direct impact of clonal hematopoiesis-associated mutations on self-renewal and clonal composition of human stem and progenitor cells.
 
-tags: 
-- climate crisis
-- mental health
-- global health
-- climate adaptation
+tags:
+- clonal hematopoiesis
+- clonal evolution
+- CRISPR/Cas9
 
 # Display this page in the Featured widget?
 featured: true
@@ -79,5 +83,4 @@ url_video: ''
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --->
 
-### Abstract in German
-Die Klimakrise ist die wohl größte Be- drohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hin- sichtlich der psychischen Gesundheit dar.
+

@@ -1,20 +1,24 @@
 ---
-title: "Mental health and climate: risks and adaptation strategies. (Psyche und Klima: Risiken und Anpassungsstrategien)"
+title: "Single-cell analysis based dissection of clonality in myelofibrosis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Elena Mylonas
+- Mareike Frick
+- Daniel Nörenberg
 - admin
-- Sylvia Hartmann
+- Frederik Damm
+- Et Al
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2022-10-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41467-019-13892-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-01T00:00:00Z"
@@ -26,15 +30,14 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ZNS Kompendium 2022*
+publication: In *Nature communications*
 
-abstract: The climate crisis is probably the greatest threat to global health in the 21st century. Especially mental health is strongly affected by direct and indirect effects of the climate crisis. This article shows the most important connections and presents possible protective measures and adaptation strategies of the climate crisis with regard to mental health. 
+abstract: Cancer development is an evolutionary genomic process with parallels to Darwinian selection. It requires acquisition of multiple somatic mutations that collectively cause a malignant phenotype and continuous clonal evolution is often linked to tumor progression. Here, we show the clonal evolution structure in 15 myelofibrosis (MF) patients while receiving treatment with JAK inhibitors (mean follow-up 3.9 years). Whole-exome sequencing at multiple time points reveal acquisition of somatic mutations and copy number aberrations over time. While JAK inhibition therapy does not seem to create a clear evolutionary bottleneck, we observe a more complex clonal architecture over time, and appearance of unrelated clones. Disease progression associates with increased genetic heterogeneity and gain of RAS/RTK pathway mutations. Clonal diversity results in clone-specific expansion within different myeloid cell lineages. Single-cell genotyping of circulating CD34+ progenitor cells allows the reconstruction of MF phylogeny demonstrating loss of heterozygosity and parallel evolution as recurrent events.
 
-tags: 
-- climate crisis
-- mental health
-- global health
-- climate adaptation
+tags:
+- cancer
+- clonal evolution
+- hematology
 
 # Display this page in the Featured widget?
 featured: true
@@ -78,6 +81,3 @@ url_video: ''
 <!---
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --->
-
-### Abstract in German
-Die Klimakrise ist die wohl größte Be- drohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hin- sichtlich der psychischen Gesundheit dar.
