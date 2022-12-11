@@ -30,10 +30,10 @@ The absolute bible and best introduction to the "Tidyverse", a very special way 
 Also quite a good start to get going with R, somewhat differently oriented than R4DS.
 
 ### 3. [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/) <br>
-Very good uptodate e-book specific to questions from Health Data Science. Perfect supplement or sequel to R4DS. The authors have developed their own package [https://finalfit.org](finalfit) that takes the philosophy of the Tidyverse and applies it to statistical methods for health data analysis. The functions from the package are super convenient for clinical analyses.
+Very good uptodate e-book specific to questions from Health Data Science. Perfect supplement or sequel to R4DS. The authors have developed their own package [finalfit](https://finalfit.org) that takes the philosophy of the Tidyverse and applies it to statistical methods for health data analysis. The functions from the package are super convenient for clinical analyses.
 
 ### 4. [The tidyverse style guide](https://style.tidyverse.org) <br>
-The right style is everything. I can only recommend that you adopt a consistent style right from the start, and [https://hadley.nz](Hadley Wickham) has already said everything about this in this very short e-book. 
+The right style is everything. I can only recommend that you adopt a consistent style right from the start, and [Hadley Wickham](https://hadley.nz) has already said everything about this in this very short e-book. 
 
 ## Advanced/more specific topics
 
