@@ -11,7 +11,7 @@ authors:
 - admin
 - Franziska Briest
 - Frederik Damm
-- Et Al
+- et al.
 
 # Author notes (optional)
 # author_notes:
