@@ -1,5 +1,5 @@
 ---
-title: "Psyche und Klima: Risiken und Anpassungsstrategien"
+title: "Mental health and climate: risks and adaptation strategies. (Psyche und Klima: Risiken und Anpassungsstrategien)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,9 +28,13 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *ZNS Kompendium 2022*
 
-abstract: Die Klimakrise ist die wohl größte Bedrohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betrof- fen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögli- che Schutzmaßnahmen und Anpas- sungsstrategien der Klimakrise hin- sichtlich der psychischen Gesundheit dar.
+abstract: The climate crisis is probably the greatest threat to global health in the 21st century. Especially mental health is strongly affected by direct and indirect effects of the climate crisis. This article shows the most important connections and presents possible protective measures and adaptation strategies of the climate crisis with regard to mental health. 
 
-tags: []
+tags: 
+- climate crisis
+- mental health
+- global health
+- climate adaptation
 
 # Display this page in the Featured widget?
 featured: true
@@ -74,3 +78,6 @@ url_video: ''
 <!---
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --->
+
+### Abstract in German
+Die Klimakrise ist die wohl größte Be- drohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hin- sichtlich der psychischen Gesundheit dar.
