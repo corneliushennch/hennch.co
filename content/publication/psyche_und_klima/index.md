@@ -80,4 +80,4 @@ Supplementary notes can be added here, including [code, math, and images](https:
 --->
 
 ### Abstract in German
-Die Klimakrise ist die wohl größte Be- drohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hin- sichtlich der psychischen Gesundheit dar.
+Die Klimakrise ist die wohl größte Be- drohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hinsichtlich der psychischen Gesundheit dar.
