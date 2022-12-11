@@ -10,7 +10,7 @@ authors:
 - Daniel Nörenberg
 - admin
 - Frederik Damm
-- Et Al
+- et al.
 
 # Author notes (optional)
 # author_notes:
