@@ -16,8 +16,8 @@ i_am_a_sponsor: true
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Personal website of Cornelius Hennch who works in Berlin as a cancer researcher'
-twitter: 'c_hennch'
+description: 'Personal website of Cornelius Hennch who works in Berlin as a resident in psychiatry'
+twitter: 'degrowth_mind'
 
 # Contact (edit or remove options as required)
 
@@ -39,10 +39,10 @@ twitter: 'c_hennch'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: "@c_hennch"
-    link: 'https://twitter.com/c_hennch'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: "@c_hennch"
+  #   link: 'https://twitter.com/c_hennch'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
