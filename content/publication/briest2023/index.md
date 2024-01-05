@@ -15,10 +15,10 @@ authors:
 - et al.
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2023-08-30T00:00:00Z"
 doi: "https://doi.org/10.1038/s41375-023-02013-9"
