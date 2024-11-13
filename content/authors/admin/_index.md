@@ -56,6 +56,6 @@ superuser: true
 highlight_name: false
 ---
 
-Cornelius Hennch is a psychiatry resident and researcher affiliated with Charité – Universitätsmedizin Berlin. His clinical work is based at the St. Hedwig Hospital's Department of Psychiatry, where he is currently undergoing his residency in psychiatry and psychotherapy. Cornelius Hennch has pursued his MD/PhD thesis in hematology/oncology, focusing on the pathogenic mechanisms in B-cell lymphoma, particularly in relation to genomic alterations and their prognostic implications.
+Cornelius Hennch is a psychiatry resident and researcher affiliated with Charité – Universitätsmedizin Berlin. His clinical work is based at the St. Hedwig Hospital's Department of Psychiatry, where he is currently advancing through his residency training in psychiatry and psychotherapy. Cornelius Hennch has pursued his MD/PhD thesis in hematology/oncology, focusing on the pathogenic mechanisms in B-cell lymphoma, particularly in relation to genomic alterations and their prognostic implications.
 
 In his current clinical research, Cornelius Hennch aims to identify prognostic factors that predict treatment outcomes for depressive disorders by training predictive models on data derived from routine clinical practice. Additionally, Cornelius Hennch has an interest in planetary health and the psychological effects of the climate crisis, making his work interdisciplinary and highly relevant to emerging public health issues.
