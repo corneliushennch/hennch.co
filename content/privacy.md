@@ -20,4 +20,4 @@ Große Hamburger Straße 5-11 <br>
 
 
 ## Kontakt
-**E-Mail:** cornelius.hennch[at]gmail.com
+**E-Mail:** Upon request
