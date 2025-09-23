@@ -31,8 +31,6 @@ social:
 organizations:
   - name: Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus
     url: https://psychiatrie-psychotherapie.charite.de/fuer_patienten/charite_im_shk/
-  - name: Research group of Frederik Damm
-    url: https://haema-onko-cvk.charite.de/forschung/arbeitsgruppen/ag_damm/
 
     
 education:
@@ -40,9 +38,9 @@ education:
     - course: Psychiatry Residency
       institution: Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus
       year: "since 2021"
-    - course: Graduate program in cancer research
-      institution: Berlin school of integrative oncology (BSIO)
-      year: "since 2017 (ongoing)"
+    - course: MD/PhD program in integrative oncology
+      institution: Hematology/Oncology Charité and Berlin School of Integrative Oncology (BSIO)
+      year: "2017 - 2025"
     - course: Medical school (state exam)
       institution: Charité – Universitätsmedizin Berlin
       year: "2013 - 2020"
