@@ -1,5 +1,5 @@
 ---
-title: Cornelius Hennch
+title: Dr. Cornelius Hennch, MD/PhD
 role: Psychiatry resident
 bio: I'm interested in the effect of climate change on mental health and reproducible data analysis.
   
