@@ -1,0 +1,30 @@
+---
+title: "Frequent ZNF217 mutations lead to transcriptional deregulation of interferon signal transduction via altered chromatin accessibility in B cell lymphoma"
+author:
+  - Franziska Briest
+  - Daniel Noerenberg
+  - Cornelius Hennch
+  - Kenichi Yoshida
+  - Raphael Hablesreiter
+  - Jose Nimo
+  - Frederik Damm
+  - et al.
+author-notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+date: "2023-08-30"
+venue: "Leukemia"
+doi: "10.1038/s41375-023-02013-9"
+categories:
+  - B-cell lymphoma
+  - Cancer genetics
+  - Oncogenes
+  - CRISPR/Cas9
+abstract: |
+  Recent exome-wide studies discovered frequent somatic mutations in the epigenetic modifier *ZNF217* in primary mediastinal B cell lymphoma (PMBCL) and related disorders. As functional consequences of *ZNF217* alterations remain unknown, we comprehensively evaluated their impact in PMBCL. Targeted sequencing identified genetic lesions affecting *ZNF217* in 33% of 157 PMBCL patients. Subsequent gene expression profiling (n = 120) revealed changes in cytokine and interferon signal transduction in *ZNF217*-aberrant PMBCL cases. In vitro, knockout of *ZNF217* led to changes in chromatin accessibility interfering with binding motifs for crucial lymphoma-associated transcription factors. This led to disturbed expression of interferon-responsive and inflammation-associated genes, altered cell behavior, and aberrant differentiation. Mass spectrometry demonstrates that ZNF217 acts within a histone modifier complex containing LSD1, CoREST and HDAC and interferes with H3K4 methylation and H3K27 acetylation. Concluding, our data suggest non-catalytic activity of ZNF217, which directs histone modifier complex function and controls B cell differentiation-associated patterns of chromatin structure.
+---
+
+*Leukemia*, 2023 · Authors 1–3 contributed equally.
+
+[Cite](cite.bib){.btn .btn-outline-primary .btn-sm} [DOI](https://doi.org/10.1038/s41375-023-02013-9){.btn .btn-outline-primary .btn-sm target="_blank"}

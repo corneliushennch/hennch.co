@@ -1,0 +1,39 @@
+---
+title: "Datenschutz / Privacy"
+toc: false
+---
+
+<!-- Please check this text yourself before publishing, e.g. against a generator such as e-recht24. Items marked PRÜFEN especially. -->
+
+Diese Website verwendet **keine Cookies, kein Tracking und keine Analyse-Dienste**. Schriftarten und Icons werden von dieser Website selbst ausgeliefert; beim Aufruf werden keine Daten an Dritte wie Google übertragen.
+
+## Verantwortlicher
+
+Cornelius Hennch <br>
+Große Hamburger Straße 5-11 <br>
+10115 Berlin <br>
+Kontakt: über das [Kontaktformular](/#contact)
+
+## Hosting und Server-Logfiles
+
+Diese Website wird bei Netlify, Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA gehostet. <!-- PRÜFEN: aktuelle Anschrift von Netlify --> Beim Aufruf der Website verarbeitet Netlify technisch notwendige Daten in Server-Logfiles: IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seite, Browser und Betriebssystem. Dies dient der sicheren und stabilen Bereitstellung der Website (Art. 6 Abs. 1 lit. f DSGVO).
+
+Dabei können Daten in die USA übermittelt werden. Netlify ist nach dem EU-US Data Privacy Framework zertifiziert (Art. 45 DSGVO). <!-- PRÜFEN: Zertifizierung unter dataprivacyframework.gov --> Weitere Informationen: [Netlify Privacy Policy](https://www.netlify.com/privacy/).
+
+## Kontaktformular
+
+Wenn Sie das Kontaktformular nutzen, werden Ihr Name, Ihre E-Mail-Adresse und Ihre Nachricht über Netlify Forms übermittelt und gespeichert, um Ihre Anfrage zu beantworten (Art. 6 Abs. 1 lit. b bzw. f DSGVO). Die Daten werden gelöscht, sobald Ihre Anfrage erledigt ist und keine gesetzlichen Aufbewahrungspflichten bestehen.
+
+## Lokale Speicherung im Browser
+
+Wenn Sie zwischen hellem und dunklem Design wechseln, wird diese Einstellung im lokalen Speicher Ihres Browsers abgelegt. Sie wird nicht an den Server übertragen und ist für die von Ihnen gewünschte Funktion unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
+
+## Externe Links
+
+Links zu anderen Websites (z. B. GitHub, ORCID, ResearchGate, Strava, Fachzeitschriften) sind einfache Links. Daten werden an diese Anbieter erst übertragen, wenn Sie einen Link anklicken; dann gelten deren Datenschutzbestimmungen.
+
+## Ihre Rechte
+
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten, auf Datenübertragbarkeit sowie auf Widerspruch gegen die Verarbeitung (Art. 15–21 DSGVO). Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren, z. B. bei der [Berliner Beauftragten für Datenschutz und Informationsfreiheit](https://www.datenschutz-berlin.de).
+
+*Stand: September 2026*

@@ -1,0 +1,26 @@
+<%
+// Renders publications: title, then authors, then venue and date, then buttons.
+// Output lines must not be indented, or markdown treats them as code blocks.
+const me = "Cornelius Hennch";
+const toList = (x) => Array.isArray(x) ? x : (x ? String(x).split(/,\s*/) : []);
+%>
+```{=html}
+<div class="pub-list">
+<% for (const item of items) {
+const authors = toList(item.author);
+const nNotes = toList(item['author-notes']).length;
+const dir = item.path.replace(/index\.(qmd|html)$/, '');
+%>
+<div class="pub-item" <%= metadataAttrs(item) %>>
+<div class="pub-title"><a href="<%- dir %>"><%= item.title %></a></div>
+<div class="pub-authors"><% authors.forEach((a, i) => { %><% if (i > 0) { %>, <% } %><% if (a === me) { %><strong><%= a %></strong><% } else { %><%= a %><% } %><% if (i < nNotes) { %><sup title="Equal contribution">*</sup><% } %><% }) %></div>
+<div class="pub-meta"><% if (item.venue) { %><em><%= item.venue %></em> · <% } %><%= item.date %></div>
+<div class="pub-buttons">
+<% if (item.pdf) { %><a class="btn btn-outline-primary btn-sm" href="<%- dir + item.pdf %>" target="_blank">PDF</a><% } %>
+<a class="btn btn-outline-primary btn-sm" href="<%- dir %>cite.bib">Cite</a>
+<% if (item.doi) { %><a class="btn btn-outline-primary btn-sm" href="https://doi.org/<%- item.doi %>" target="_blank">DOI</a><% } %>
+</div>
+</div>
+<% } %>
+</div>
+```

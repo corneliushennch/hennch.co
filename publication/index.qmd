@@ -1,0 +1,10 @@
+---
+title: "Publications"
+toc: false
+listing:
+  contents: "*/index.qmd"
+  template: ../_templates/publications.ejs
+  sort: "date desc"
+  date-format: "MMMM YYYY"
+  fields: [title, author, date, venue, doi, pdf, author-notes]
+---

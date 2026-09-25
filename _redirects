@@ -1,0 +1,25 @@
+# Redirects for URLs of the old Hugo/Wowchemy site
+
+# RSS: the site-wide feed now lives with the posts
+/index.xml                  /post/index.xml    301
+
+# Tag and taxonomy pages: post tags -> post listing, everything else -> publications
+/tag/r/*                    /post/             301
+/tag/data-science/*         /post/             301
+/tag/learning/*             /post/             301
+/tag/visualisation/*        /post/             301
+/tag/*                      /publication/      301
+/tags/*                     /post/             301
+/categories/*               /post/             301
+/category/*                 /post/             301
+/publication-type/*         /publication/      301
+/publication_types/*        /publication/      301
+
+# Removed Wowchemy demo pages
+/archive/*                  /                  301
+/project/*                  /                  301
+/slides/*                   /                  301
+/event/*                    /                  301
+/talk/*                     /                  301
+/admin/*                    /                  301
+/authors/*                  /                  301
