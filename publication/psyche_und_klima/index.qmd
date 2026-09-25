@@ -1,0 +1,26 @@
+---
+title: "Mental health and climate: risks and adaptation strategies. (Psyche und Klima: Risiken und Anpassungsstrategien)"
+author:
+  - Cornelius Hennch
+  - Sylvia Hartmann
+author-notes:
+  - Equal contribution
+  - Equal contribution
+date: "2022-10-01"
+venue: "ZNS Kompendium 2022"
+pdf: "psyche_und_klima.pdf"
+categories:
+  - climate crisis
+  - mental health
+  - global health
+  - climate adaptation
+abstract: |
+  The climate crisis is probably the greatest threat to global health in the 21st century. Especially mental health is strongly affected by direct and indirect effects of the climate crisis. This article shows the most important connections and presents possible protective measures and adaptation strategies of the climate crisis with regard to mental health.
+---
+
+*ZNS Kompendium 2022*, 2022 · Both authors contributed equally.
+
+[PDF](psyche_und_klima.pdf){.btn .btn-outline-primary .btn-sm target="_blank"} [Cite](cite.bib){.btn .btn-outline-primary .btn-sm}
+
+### Abstract in German
+Die Klimakrise ist die wohl größte Bedrohung für die globale Gesundheit im 21. Jahrhundert. Vor allem die psychische Gesundheit ist durch direkte und indirekte Effekte stark von den Auswirkungen der Klimakrise betroffen. Dieser Beitrag zeigt die wichtigsten Zusammenhänge und legt mögliche Schutzmaßnahmen und Anpassungsstrategien der Klimakrise hinsichtlich der psychischen Gesundheit dar.

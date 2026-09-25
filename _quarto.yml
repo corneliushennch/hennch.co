@@ -1,0 +1,62 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "privacy/index.qmd"
+    - "datenschutz/index.qmd"
+    - "terms/index.qmd"
+    - "post/**/*.qmd"
+    - "publication/**/*.qmd"
+  resources:
+    - _redirects
+    - uploads/
+    - media/
+    - assets/
+    - "publication/*/cite.bib"
+    - "publication/*/*.pdf"
+    - "post/*/*.pdf"
+
+website:
+  title: "Cornelius Hennch"
+  site-url: "https://www.hennch.co"
+  description: "Personal website of Cornelius Hennch who works in Berlin as a resident in psychiatry"
+  favicon: media/favicon-32x32.png
+  open-graph: true
+  twitter-card:
+    site: "@degrowth_mind"
+  search: true
+  back-to-top-navigation: true
+  navbar:
+    right:
+      - text: Publications
+        href: "index.qmd#featured"
+      - text: Posts
+        href: "index.qmd#posts"
+      - text: Contact
+        href: "index.qmd#contact"
+  page-footer:
+    left: |
+      © 2026 Cornelius Hennch ·
+      <a href="https://github.com/corneliushennch/hennch.co" target="_blank" rel="noopener" aria-label="Source code"><i class="fas fa-code-branch"></i></a> ·
+      Made with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
+    right: |
+      <a href="/privacy/">Impressum</a> ·
+      <a href="/datenschutz/">Datenschutz</a> ·
+      <a href="/terms/" aria-label="License: CC BY-NC 4.0"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-nc"></i></a>
+
+format:
+  html:
+    theme:
+      dark: [sandstone, dark.scss, styles.scss]
+      light: [sandstone, styles.scss]
+    highlight-style:
+      dark: monokai
+      light: github
+    toc: true
+    html-math-method: plain   # no maths on the site; avoids loading MathJax from a CDN
+    toc-depth: 3
+    date-format: "DD.MM.YYYY"
+    include-in-header: _includes/header.html
+
+execute:
+  freeze: auto
