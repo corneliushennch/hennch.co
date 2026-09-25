@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+// Dark-mode palette on top of Bootswatch "sandstone" (which only ships a light variant).
+// Colours are taken from sandstone's own greys and accents.
+$sand-darkest: #272824;
+$sand-dark:    #3e3f3a;   // sandstone $gray-800
+$sand-mid:     #8e8c84;   // sandstone $gray-600
+$sand-light:   #dfd7ca;   // sandstone $gray-300
+$sand-lightest: #f8f5f0;   // sandstone $gray-100
+
+$body-bg: $sand-darkest;
+$body-color: $sand-lightest;
+$headings-color: $sand-lightest;
+$primary: #29abe0;        // sandstone $info: readable on a dark background
+$link-color: #2399cc;     // slightly darker blue, still 4.6:1 contrast on $body-bg
+$border-color: #55564f;
+
+$navbar-bg: $sand-dark;
+$navbar-fg: $sand-lightest;
+$navbar-hl: $sand-lightest;
+$footer-bg: $sand-dark;
+$footer-fg: $sand-lightest;
+
+$code-block-bg: $sand-dark;
+$code-color: #f47c3c;     // sandstone $warning
+
+$input-bg: $sand-dark;
+$input-color: $sand-lightest;
+$input-border-color: $sand-mid;
+$input-placeholder-color: $sand-mid;
+
+/*-- scss:rules --*/
+
+:root {
+  color-scheme: dark;
+}

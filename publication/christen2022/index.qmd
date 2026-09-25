@@ -1,0 +1,24 @@
+---
+title: "Modeling clonal hematopoiesis in umbilical cord blood cells by CRISPR/Cas9"
+author:
+  - Friederike Christen
+  - Raphael Hablesreiter
+  - Kaja Hoyer
+  - Cornelius Hennch
+  - Franziska Briest
+  - Frederik Damm
+  - et al.
+date: "2022-10-01"
+venue: "Leukemia"
+doi: "10.1038/s41375-021-01469-x"
+categories:
+  - clonal hematopoiesis
+  - clonal evolution
+  - CRISPR/Cas9
+abstract: |
+  To investigate clonal hematopoiesis associated gene mutations in vitro and to unravel the direct impact on the human stem and progenitor cell (HSPC) compartment, we targeted healthy, young hematopoietic progenitor cells, derived from umbilical cord blood samples, with CRISPR/Cas9 technology. Site-specific mutations were introduced in defined regions of DNMT3A, TET2, and ASXL1 in CD34+ progenitor cells that were subsequently analyzed in short-term as well as long-term in vitro culture assays to assess self-renewal and differentiation capacities. Colony-forming unit (CFU) assays revealed enhanced self-renewal of TET2 mutated (TET2mut) cells, whereas ASXL1mut as well as DNMT3Amut cells did not reveal significant changes in short-term culture. Strikingly, enhanced colony formation could be detected in long-term culture experiments in all mutants, indicating increased self-renewal capacities. While we could also demonstrate preferential clonal expansion of distinct cell clones for all mutants, the clonal composition after long-term culture revealed a mutation-specific impact on HSPCs. Thus, by using primary umbilical cord blood cells, we were able to investigate epigenetic driver mutations without confounding factors like age or a complex mutational landscape, and our findings provide evidence for a direct impact of clonal hematopoiesis-associated mutations on self-renewal and clonal composition of human stem and progenitor cells.
+---
+
+*Leukemia*, 2022
+
+[Cite](cite.bib){.btn .btn-outline-primary .btn-sm} [DOI](https://doi.org/10.1038/s41375-021-01469-x){.btn .btn-outline-primary .btn-sm target="_blank"}

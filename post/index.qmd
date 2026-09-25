@@ -1,0 +1,13 @@
+---
+title: "Posts"
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+  image-align: left
+  fields: [image, date, title, subtitle, description, reading-time, categories]
+page-layout: full
+title-block-banner: false
+---
