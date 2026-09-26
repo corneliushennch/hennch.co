@@ -1,0 +1,5 @@
+/*-- scss:defaults --*/
+// Light-mode tweaks on top of Bootswatch "sandstone".
+// Link green taken from the foliage behind the headshot (media/avatar.png), a little brighter
+// than its median #334e20. Sandstone's own #93c54b is only 2:1 on white; this is 6.3:1 (WCAG AA).
+$link-color: #3d6b27;

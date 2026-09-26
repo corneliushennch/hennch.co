@@ -37,8 +37,9 @@ Personal website of Cornelius Hennch (https://www.hennch.co): a Quarto website, 
 
 - Theme: Bootswatch `sandstone` in both modes. **Dark is the default** (listed first under `theme:`), and a light/dark toggle is enabled.
 - `dark.scss` holds only the dark palette (sandstone-derived warm greys; off-white text `#f8f5f0`; links `#2399cc`, chosen to keep WCAG AA contrast on `#272824`).
+- `light.scss` holds only light-mode overrides (link green `#3d6b27`, matched to the headshot background; 6.3:1 on white instead of sandstone's 2:1 `#93c54b`).
 - `styles.scss` is shared by both modes: fonts, and layout rules for `.home`, `.profile`, `.pub-list` and the contact form. Keep Sass variables declared as `$name: value`, with a space after the colon, or Quarto warns "variable used before declaration".
-- Fonts: Inter and JetBrains Mono, via `@font-face` from `assets/fonts/`. `$web-font-path: false` stops sandstone importing Roboto.
+- Fonts: Source Serif 4 (body text inside `main.content`), Inter (headings, navbar, buttons, publication list, profile, forms) and JetBrains Mono (code), all via `@font-face` from `assets/fonts/`. `$web-font-path: false` stops sandstone importing Roboto.
 
 ## Privacy constraints (German site)
 
