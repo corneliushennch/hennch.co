@@ -1,11 +1,12 @@
 /*-- scss:defaults --*/
-// Typography: Inter for headings and body, JetBrains Mono for code.
+// Typography: Source Serif 4 for body text, Inter for headings and UI, JetBrains Mono for code.
 // Fonts are self-hosted (assets/fonts, see @font-face below) so no visitor data goes to Google.
 $web-font-path: false;    // stop sandstone from importing Roboto from Google Fonts
 
 $font-family-sans-serif: "Inter", -apple-system, "Segoe UI", sans-serif;
 $headings-font-family: "Inter", -apple-system, "Segoe UI", sans-serif;
 $headings-font-weight: 600;
+$font-family-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
 $font-family-monospace: "JetBrains Mono", SFMono-Regular, Menlo, monospace;
 $font-size-root: 16px;
 
@@ -27,6 +28,23 @@ $font-size-root: 16px;
   src: url("/assets/fonts/inter-latin-italic.woff2") format("woff2");
 }
 
+// Variable font with weight and optical-size axes; browsers pick the optical size automatically
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("/assets/fonts/source-serif-4-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("/assets/fonts/source-serif-4-latin-italic.woff2") format("woff2");
+}
+
 @font-face {
   font-family: "JetBrains Mono";
   font-style: normal;
@@ -35,15 +53,29 @@ $font-size-root: 16px;
   src: url("/assets/fonts/jetbrains-mono-latin.woff2") format("woff2");
 }
 
-// Homepage: cap the width on large screens and keep text lines readable
-body.home main.content {
-  max-width: 1140px;
-  margin-left: auto;
-  margin-right: auto;
+// Body text in the serif; navigation, buttons, forms and lists stay in Inter
+main.content {
+  font-family: $font-family-serif;
+  line-height: 1.65;
 }
 
-body.home main.content p {
-  max-width: 72ch;
+main.content {
+  .btn,
+  .pub-list,
+  .profile,
+  .contact-form,
+  .quarto-title-meta,
+  .listing-categories,
+  .quarto-categories {
+    font-family: $font-family-sans-serif;
+  }
+}
+
+// Homepage: cap the width on large screens
+body.home main.content {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 // Homepage sections
@@ -134,4 +166,10 @@ ul.fa-ul-list {
   textarea {
     width: 100%;
   }
+}
+
+// Sandstone sets navbar links in uppercase; keep them as written
+.navbar .nav-link,
+.dropdown-menu .dropdown-item {
+  text-transform: none;
 }

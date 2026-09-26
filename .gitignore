@@ -2,6 +2,7 @@
 .idea/
 .Rproj.user
 .DS_Store
+.Rhistory
 
 # Quarto
 /.quarto/
