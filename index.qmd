@@ -28,7 +28,7 @@ listing:
 
 [Psychiatry resident]{.profile-role}
 
-[[Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus](https://psychiatrie-psychotherapie.charite.de/fuer_patienten/charite_im_shk/)]{.profile-org}
+[[Psychiatrische Universitätsklinik der Charité im St. Hedwig-Krankenhaus](https://psy.charite.de/team/shk/)]{.profile-org}
 
 ::: {.social-links}
 ```{=html}
