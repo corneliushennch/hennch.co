@@ -30,7 +30,7 @@ None of it is hard to fix. It's just tedious, and that kind of tedious, rule-bas
 This post explains how I set it up, so you can copy what's useful and skip the mistakes I made along the way.
 
 
-## How the pieces fit together
+## Stack overview
 
 The setup has four parts:
 
@@ -90,7 +90,7 @@ zotero-mcp authorize-local --status
 zotero-mcp authorize-local --revoke
 ```
 
-### 5. Sandbox
+### 5. Sandbox (optional)
 
 If Claude Code's sandbox is on, it blocks the connection to Zotero's local API (`localhost:23119`), so some commands fail in confusing ways. I turned the sandbox off for this project only, in `.claude/settings.local.json`:
 
@@ -104,7 +104,7 @@ If Claude Code's sandbox is on, it blocks the connection to Zotero's local API (
 
 This is a trade-off. Without the sandbox, the agent's shell commands run with your normal permissions. I accept it here because CLAUDE.md strictly limits what the agent may do (see below), and Claude Code still asks before running commands I haven't allowed. If you'd rather keep the sandbox, look at its network settings instead.
 
-### 6. Optional: semantic search with Ollama
+### 6. Semantic search with Ollama (optional)
 
 Keyword search finds the papers you already know how to describe. Semantic search also finds the ones that use different words for the same idea. With Ollama, the embeddings are computed on your own machine and nothing leaves it:
 
@@ -225,15 +225,13 @@ OK, what are your suggestions for a first run to clean and structure it?
 The agent proposed a run of separate batches: first remove obvious junk tags, then map informal type tags onto the vocabulary, then unify spelling variants, then classify untyped items. Each batch was small enough to review. Claude Code's **plan mode** (Shift+Tab) works well here, because the agent can only read and plan until you approve.
 
 
-**Optional: Record what only you can do.**
+**3. Record what only you can do (optional).**
 
 At the end of a run there's a list of things the agent mustn't or can't do: delete import-residue notes, fix broken metadata, create collections.
 
 ```text
 Record these open ToDos in PROGRESS.md
 ```
-
-
 
 ## Keeping track across sessions
 
@@ -254,7 +252,7 @@ None of this is very different from how you use Claude Code for analyses. Your l
 
 The same habits apply: plan mode first, a CLAUDE.md that states your conventions, and never approving a change you haven't read.
 
-## What's next
+## Next steps and tasks for the agent
 
 With a cleaned library, the more interesting tasks open up: synthesis notes built from colored annotations ("all limitations noted in my papers on topic X"), and semantic search for related papers and gaps in a review project.
 
