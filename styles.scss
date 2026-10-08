@@ -173,3 +173,12 @@ ul.fa-ul-list {
 .dropdown-menu .dropdown-item {
   text-transform: none;
 }
+
+// Un-highlighted code blocks (```text) get the same box as highlighted ones;
+// Quarto resets their background to transparent. In light mode $code-block-bg is
+// the flag `true`, so fall back to the colour Quarto computes for highlighted blocks there.
+pre:not(.sourceCode) {
+  background-color: if(type-of($code-block-bg) == color, $code-block-bg, rgba(#dee2e6, .65));
+  padding: .4em .6em;
+  border-radius: .25rem;
+}
