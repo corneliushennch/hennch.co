@@ -23,6 +23,7 @@ $footer-fg: $sand-lightest;
 $code-block-bg: $sand-dark;
 $code-bg: $sand-dark;      // inline code; default is a light grey that makes off-white text unreadable
 $code-color: #f47c3c;     // sandstone $warning
+$pre-color: $sand-lightest; // un-highlighted blocks (```text); default is black
 
 $input-bg: $sand-dark;
 $input-color: $sand-lightest;
