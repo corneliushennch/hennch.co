@@ -118,7 +118,7 @@ zotero-mcp update-db                       # build the search index
 
 Library cleanup doesn't need this. It becomes useful once you ask the agent to find related papers or gaps.
 
-## CLAUDE.md: the part that matters
+## Drafting CLAUDE.md
 
 You may already have a CLAUDE.md in your R projects, describing packages, folder layout and coding style. For a Zotero agent it matters even more, because the agent is working on years of curated material, not code under version control. **Zotero has no `git revert`.**
 
@@ -241,16 +241,6 @@ A cleanup takes several sessions, so you need a way to pick up where you left of
 - **Claude Code's memory** holds what the agent learned: quirks of the CLI it ran into and the rules you agreed on. At the start of the next session it already knows them.
 - **`/compact` with a focus**, e.g. `/compact with focus on suggestions for run 3`, when a long run fills the context.
 
-## Coming from R
-
-None of this is very different from how you use Claude Code for analyses. Your library is a dataset, and cleaning it works like cleaning one:
-
-- define the target format (the vocabulary)
-- look at the data before changing it (the health check)
-- transform it in reviewable steps (batches)
-- check the result against what you expected (the diff)
-
-The same habits apply: plan mode first, a CLAUDE.md that states your conventions, and never approving a change you haven't read.
 
 ## Next steps and tasks for the agent
 
