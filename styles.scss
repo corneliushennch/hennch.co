@@ -1,12 +1,12 @@
 /*-- scss:defaults --*/
-// Typography: Source Serif 4 for body text, Inter for headings and UI, JetBrains Mono for code.
+// Typography: Libron for body text, Inter for headings and UI, JetBrains Mono for code.
 // Fonts are self-hosted (assets/fonts, see @font-face below) so no visitor data goes to Google.
 $web-font-path: false;    // stop sandstone from importing Roboto from Google Fonts
 
 $font-family-sans-serif: "Inter", -apple-system, "Segoe UI", sans-serif;
 $headings-font-family: "Inter", -apple-system, "Segoe UI", sans-serif;
 $headings-font-weight: 600;
-$font-family-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-family-serif: "Libron", Georgia, "Times New Roman", serif;
 $font-family-monospace: "JetBrains Mono", SFMono-Regular, Menlo, monospace;
 $font-size-root: 16px;
 
@@ -28,21 +28,37 @@ $font-size-root: 16px;
   src: url("/assets/fonts/inter-latin-italic.woff2") format("woff2");
 }
 
-// Variable font with weight and optical-size axes; browsers pick the optical size automatically
+// Libron (OFL, github.com/nicoverbruggen/libron): static Regular, Italic, Bold, Bold Italic
 @font-face {
-  font-family: "Source Serif 4";
+  font-family: "Libron";
   font-style: normal;
-  font-weight: 200 900;
+  font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/source-serif-4-latin.woff2") format("woff2");
+  src: url("/assets/fonts/libron-regular.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "Source Serif 4";
+  font-family: "Libron";
   font-style: italic;
-  font-weight: 200 900;
+  font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/source-serif-4-latin-italic.woff2") format("woff2");
+  src: url("/assets/fonts/libron-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Libron";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/libron-bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Libron";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/libron-bold-italic.woff2") format("woff2");
 }
 
 @font-face {
