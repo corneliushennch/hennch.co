@@ -100,6 +100,11 @@ body.home main.content {
   scroll-margin-top: 4rem;
 }
 
+// Start the "Welcome" heading level with the top of the headshot
+#about #welcome > h2:first-child {
+  margin-top: 0;
+}
+
 // Profile block (replaces the Wowchemy "about" widget)
 .profile {
   text-align: center;
