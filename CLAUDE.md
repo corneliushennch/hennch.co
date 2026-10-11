@@ -43,12 +43,12 @@ Personal website of Cornelius Hennch (https://www.hennch.co): a Quarto website, 
 
 ## Privacy constraints (German site)
 
-The site deliberately makes **no third-party requests and sets no cookies**:
+The site makes **no third-party requests and sets no cookies until the visitor consents**:
 - Fonts and Font Awesome are self-hosted (`assets/`). Font Awesome's CSS is linked in `_includes/header.html`.
 - MathJax is disabled (`html-math-method: plain`).
-- Google Analytics and the cookie banner were removed on purpose, because the owner doesn't want tracking.
+- Google Analytics (`G-DT52RVD1ST`) is opt-in only. `assets/consent.js` (included from `_includes/header.html`) shows a banner and loads gtag.js only after "Accept"; the choice lives in `localStorage` (`ga-consent`). Any element with `data-consent-reset` (footer "Cookies" link, Datenschutz page) withdraws consent and deletes the `_ga*` cookies. Never load gtag directly in the header.
 
-Don't add CDN links, Google Fonts, analytics or embeds without asking. If one is added, `datenschutz/index.qmd` (German privacy note) must be updated to match. `privacy/index.qmd` is the Impressum and keeps that URL for backward compatibility.
+Don't add further CDN links, Google Fonts, analytics or embeds without asking. If one is added, `datenschutz/index.qmd` (German privacy note) must be updated to match. `privacy/index.qmd` is the Impressum and keeps that URL for backward compatibility.
 
 ## Local environment gotcha
 
