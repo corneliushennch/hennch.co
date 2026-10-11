@@ -5,7 +5,7 @@ toc: false
 
 <!-- Please check this text yourself before publishing, e.g. against a generator such as e-recht24. Items marked PRÜFEN especially. -->
 
-Diese Website verwendet **keine Cookies, kein Tracking und keine Analyse-Dienste**. Schriftarten und Icons werden von dieser Website selbst ausgeliefert; beim Aufruf werden keine Daten an Dritte wie Google übertragen.
+Diese Website setzt **Cookies und Google Analytics nur mit Ihrer Einwilligung** ein. Ohne Einwilligung werden keine Analyse-Dienste geladen. Schriftarten und Icons werden von dieser Website selbst ausgeliefert, beim Aufruf werden dafür keine Daten an Dritte übertragen.
 
 ## Verantwortlicher
 
@@ -24,9 +24,17 @@ Dabei können Daten in die USA übermittelt werden. Netlify ist nach dem EU-US D
 
 Wenn Sie das Kontaktformular nutzen, werden Ihr Name, Ihre E-Mail-Adresse und Ihre Nachricht über Netlify Forms übermittelt und gespeichert, um Ihre Anfrage zu beantworten (Art. 6 Abs. 1 lit. b bzw. f DSGVO). Die Daten werden gelöscht, sobald Ihre Anfrage erledigt ist und keine gesetzlichen Aufbewahrungspflichten bestehen.
 
+## Google Analytics
+
+Wenn Sie im Hinweisbanner auf „Accept“ klicken, nutzt diese Website Google Analytics 4, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“). Erst dann wird das Skript von Google geladen. Google Analytics setzt Cookies (`_ga`, `_ga_<ID>`) und verarbeitet Informationen über Ihre Nutzung dieser Website, z. B. aufgerufene Seiten, Verweildauer, Herkunft des Besuchs, Geräte- und Browserinformationen sowie Ihre gekürzte IP-Adresse. Daraus werden anonyme Nutzungsstatistiken erstellt.
+
+Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG). Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen: <a href="#" data-consent-reset>Cookie-Einstellungen ändern</a> (auch im Footer jeder Seite unter „Cookies“). Dabei werden die Google-Analytics-Cookies gelöscht.
+
+Dabei können Daten an Google LLC in die USA übermittelt werden. Google ist nach dem EU-US Data Privacy Framework zertifiziert (Art. 45 DSGVO). <!-- PRÜFEN: Speicherdauer in der GA-Property (Standard 2 oder 14 Monate) und Auftragsverarbeitungsvertrag mit Google (in der GA-Verwaltung akzeptieren) --> Die Daten werden nach Ablauf der in Google Analytics eingestellten Aufbewahrungsdauer gelöscht. Weitere Informationen: [Google-Datenschutzerklärung](https://policies.google.com/privacy).
+
 ## Lokale Speicherung im Browser
 
-Wenn Sie zwischen hellem und dunklem Design wechseln, wird diese Einstellung im lokalen Speicher Ihres Browsers abgelegt. Sie wird nicht an den Server übertragen und ist für die von Ihnen gewünschte Funktion unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
+Wenn Sie zwischen hellem und dunklem Design wechseln, wird diese Einstellung im lokalen Speicher Ihres Browsers abgelegt. Ebenso wird dort gespeichert, ob Sie Google Analytics zugestimmt oder es abgelehnt haben, damit das Hinweisbanner nicht bei jedem Aufruf erscheint. Diese Einträge werden nicht an den Server übertragen und sind für die von Ihnen gewünschte Funktion unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
 
 ## Externe Links
 
@@ -36,4 +44,4 @@ Links zu anderen Websites (z. B. GitHub, ORCID, ResearchGate, Strava, Fachzeitsc
 
 Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten, auf Datenübertragbarkeit sowie auf Widerspruch gegen die Verarbeitung (Art. 15–21 DSGVO). Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren, z. B. bei der [Berliner Beauftragten für Datenschutz und Informationsfreiheit](https://www.datenschutz-berlin.de).
 
-*Stand: September 2026*
+*Stand: Oktober 2026*
