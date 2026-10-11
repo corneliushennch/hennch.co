@@ -42,7 +42,6 @@ website:
     right: |
       <a href="/privacy/">Impressum</a> ·
       <a href="/datenschutz/">Datenschutz</a> ·
-      <a href="#" data-consent-reset>Cookies</a> ·
       <a href="/terms/" aria-label="License: CC BY-NC 4.0"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-nc"></i></a>
 
 format:
